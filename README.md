@@ -1,2 +1,4 @@
 # filemove
 filemove
+:wq
+
